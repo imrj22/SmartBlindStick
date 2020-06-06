@@ -122,8 +122,6 @@ Code for Appliances Access through Voice Command
 
 Step2:-Make the connections according to the pin mention in the program.
 
-![](images/GoogleAssistant.jpeg) ![](images/Blynk.jpeg)
-
 Step3:-Download the blynk app in the mobile and create a project by choosing two button and assigning a digital pin to them. Once done we will get an email from blynk with the credentials.
 
 Step4:-Open the ifttt platform and login with your facebook account
@@ -139,6 +137,9 @@ Step7:-Click on the” that” of the phrase and a pop up will be open ,there pr
 Step8:-Once down upload the program and it will take few seconds to connect.
 
 Step9:-Now when u will say the phrase in your mobile the respective action will be performed. 
+
+![](images/GoogleAssistant.jpeg) ![](images/Blynk.jpeg)
+
 
 
 STEPS TO SETUP IMAGE PROCESSING
