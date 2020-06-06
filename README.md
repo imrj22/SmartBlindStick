@@ -199,4 +199,4 @@ Step2:-Once the program is run it will ask for the location and the filename, sa
 Step3:-After execution the program will open the system camera  and will try to compare the image with image in the dataset, if found then the name will be displayed on the screen otherwise  “unknown” will be displayed.
 
 Step4:-The whole process will take few seconds and will terminate automatically.
-![](images/img4.png)
+![](images/img4.jpg)
